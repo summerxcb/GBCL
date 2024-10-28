@@ -8,7 +8,7 @@ GBCL是一个利用BERT、CNN、LSTM以及GCN提取意图特征的模型,用于�
 
 # GBCL 快速实现
 
-在终端运行  `python main.py ` 进行训练
+训练：   `python main.py `  
 
-在终端运行  `python test.py ` 进行测试
+测试：   `python test.py `   
 
